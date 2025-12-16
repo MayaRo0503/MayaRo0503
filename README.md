@@ -1,88 +1,89 @@
 ## 🌟 Hi, I'm Maya 👋  
-**AI Automation Developer | GenAI & RAG Systems | Workflow Orchestration**
+**AI Automation Developer | GenAI Systems | RAG & GraphRAG Architect**
 
 <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" height="200px" />
 
 ---
 
 ### 👩‍💻 About Me  
-I’m an **AI Automation Developer** specializing in building **production-grade GenAI systems**.
+I’m an **AI Automation Developer** focused on building **robust, production-ready GenAI systems**.
 
-I design and implement **end-to-end AI workflows** that combine:
-- Retrieval-Augmented Generation (RAG)
-- Workflow orchestration
-- Vector databases
-- Prompt & context engineering
-- Scalable cloud AI services
+I design **end-to-end AI workflows** that combine:
+- RAG & GraphRAG architectures  
+- Multi-model LLM strategies (OpenAI, Claude, Gemini)  
+- Vector & graph-based retrieval  
+- Prompt & context engineering  
+- Workflow orchestration and evaluation pipelines  
 
-My work focuses on **reliability, observability, and real-world constraints** — not demos.
+My work emphasizes **accuracy, explainability, scalability, and cost-awareness** — not demos.
 
 ---
 
 ### 🧠 Core Expertise
-- **AI Automation & Orchestration (n8n)**
-- **RAG Architecture & Knowledge Retrieval**
+- **AI Automation & Workflow Orchestration (n8n)**
+- **RAG & GraphRAG System Design**
 - **Prompt Engineering & Context Engineering**
-- **Evaluation & QA pipelines for LLM outputs**
-- **AI cost-awareness & system scalability**
+- **LLM Evaluation, QA & Grading Pipelines**
+- **Multi-model LLM routing & fallback strategies**
 
 ---
 
-### 🛠️ Technologies & Tools
-
-#### 🤖 AI / GenAI Stack
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### 🤖 AI / GenAI Stack
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square)
 ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+- Model selection & task-based routing  
+- Prompt specialization per model  
+- Cost / quality trade-offs  
+
+---
+
+### 📚 Retrieval, Vector & Graph Systems
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+- Pinecone & Supabase Vector Store (pgvector)  
+- Metadata-driven retrieval  
+- **GraphRAG** for relationship-aware knowledge traversal  
+- Hybrid retrieval (vector + graph + filters)
+
+---
+
+### 🛠️ Orchestration & Platforms
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Dify](https://img.shields.io/badge/-Dify-000000?style=flat-square)
 
-- **RAG pipelines** (File Search, Vector Stores, metadata-driven retrieval)
-- **Prompt & Context Engineering**
-- **LLM evaluation & grading agents**
-- **Multi-agent workflows**
+- Complex branching workflows  
+- Multi-agent pipelines  
+- Re-run, evaluation & recovery flows  
 
 ---
 
-#### 📊 Vector Stores & Data
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-- Supabase Vector Store (pgvector)
-- Structured metadata & embeddings
-- Hybrid retrieval strategies
-
----
-
-#### 💻 Programming
+### 💻 Programming
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-#### ☁️ Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
----
-
 ### 🚀 Selected Projects
 
 🔹 **Kiddo News – AI-powered News Platform for Children**  
+- RAG & GraphRAG over trusted news sources  
 - GPT-based language simplification  
-- RAG over trusted news sources  
-- Parent control & content moderation  
-- AI grading & QA workflows  
+- Parent controls & content moderation  
+- AI QA & evaluation agents  
 
 🔹 **AI Grading & Evaluation System**  
-- Automated assessment pipelines  
-- Instructor-aligned grading behavior  
-- Prompt-driven evaluation agents  
+- Multi-agent grading pipelines  
+- Instructor-aligned evaluation logic  
 - JSON-structured outputs for dashboards  
+- Model comparison & output validation  
 
 🔹 **Web Vulnerability Scanner**  
-- Security scanning automation  
+- Automated security analysis  
 - XSS & SQL Injection detection  
 
 ---
@@ -94,4 +95,4 @@ My work focuses on **reliability, observability, and real-world constraints** �
 
 ---
 
-⭐️ *Building AI systems that actually work in production.*
+⭐️ *I build AI systems that are explainable, scalable, and actually usable.*
